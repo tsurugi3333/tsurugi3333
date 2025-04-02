@@ -63,11 +63,3 @@
 </div>
 <!-- <br></br> -->
 
-[![namanbarkiya's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namanbarkiya&theme=radical&hide_border=true)](https://github.com/namanbarkiya)
-
-<!-- [![namanbarkiya's GitHub stats](https://activity-graph.herokuapp.com/graph?username=namanbarkiya&theme=minimal&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/namanbarkiya) -->
-
-<!---
-namanbarkiya/namanbarkiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
