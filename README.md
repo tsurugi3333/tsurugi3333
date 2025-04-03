@@ -2,7 +2,7 @@
 
 ## :sparkles: Welcome
 
-- :snowman: Hey there! I'm **Tsurugi Kaito**
+- :snowman: Hey there! I'm @Tsurugi Kaito@
 - :link: Connect with me:
 
 <a  href="https://www.linkedin.com/in/namanbarkiya"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
