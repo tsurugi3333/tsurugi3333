@@ -2,7 +2,7 @@
 
 ## :sparkles: Welcome
 
-- :snowman: Hey there! I'm @Tsurugi Kaito@
+- :snowman: Hey there! I'm @Tsurugi Kaito.@
 - :link: Connect with me:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tsurugi3333@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
