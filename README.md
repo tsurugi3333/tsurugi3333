@@ -1,4 +1,4 @@
-## :sparkles: Welcome
+## :sparkles: Welcome!
 
 - :snowman: Hey there! I'm @Tsurugi Kaito.@
 - :link: Connect with me:
