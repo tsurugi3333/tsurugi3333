@@ -1,62 +1,59 @@
 ## :sparkles: Welcome!
 
-- :snowman: Hey there! I'm @Tsurugi Kaito.@
+- :video_game: Hey there! I'm @Tsurugi Kaito, a Unity Game Developer.@
 - :link: Connect with me:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tsurugi3333@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a  href="https://twitter.com/akratos_god"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
-<!-- <br></br> -->
-<!-- icons from: https://simpleicons.org/ -->
-
 ## :crossed_swords: Skills
 
-- #### Languages:
+- #### Game Development:
 
 <div align="left">
-<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/JavaScript-323325?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<!-- <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
-<!-- <img height="25" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> -->
-<!-- <br></br> -->
-<!-- <img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> -->
-<!-- <img height="25" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> -->
+<img height="25" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Shader Programming-FF6F00?style=for-the-badge&logo=shader&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Game Design-5C2D91?style=for-the-badge&logo=game&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/3D Physics-00B4D8?style=for-the-badge&logo=physics&logoColor=white">
+</div>
+
+- #### Programming Languages:
+
+<div align="left">
+<img height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/JavaScript-323325?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
-<!-- <br></br> -->
 
-- #### Frontend:
+- #### Graphics & Tools:
 
 <div align="left">
-<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img height="25" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/React_Native-25232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<!-- <br></br> -->
-<img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/HLSL-3776AB?style=for-the-badge&logo=shader&logoColor=white">
 </div>
-<!-- <br></br> -->
 
-- #### Backend:
+- #### Game Systems:
+
 <div align="left">
-<img height="25" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<!-- <br></br> -->
-<img height="25" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-<img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Animation Systems-FF4B4B?style=for-the-badge&logo=animation&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/AI Pathfinding-00A1E0?style=for-the-badge&logo=ai&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Gameplay Systems-76B900?style=for-the-badge&logo=gamepad&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Procedural Generation-FF6F00?style=for-the-badge&logo=random&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Multiplayer Networking-007ACC?style=for-the-badge&logo=network&logoColor=white">
 </div>
-<!-- <br></br> -->
 
+- #### Additional Skills:
+
+<div align="left">
+<img height="25" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img height="25" src="https://img.shields.io/badge/UI_Design-FF4785?style=for-the-badge&logo=ui&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Performance Optimization-2496ED?style=for-the-badge&logo=optimization&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/AR/VR Development-007FB1?style=for-the-badge&logo=ar&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/Mobile Development-3DDC84?style=for-the-badge&logo=mobile&logoColor=white">
+</div>
