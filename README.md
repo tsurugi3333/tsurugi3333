@@ -1,10 +1,11 @@
+<a  href=https://my-portfolio-gilt-six-92.vercel.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=nginx&logoColor=black"></a>
+
 ## :sparkles: Welcome!
 
 - :video_game: Hey there! I'm @Tsurugi Kaito, a Unity Game Developer.@
 - :link: Connect with me:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tsurugi3333@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a  href="https://twitter.com/akratos_god"><img height="25" src="https://img.shields.io/badge/twitter (X)-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 
 ## :crossed_swords: Skills
 
